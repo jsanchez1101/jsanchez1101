@@ -1,4 +1,4 @@
-### Hi, I'm Jason 👋
+### Hi, I'm Jason
 
 I build machine-learning security systems, detection pipelines, and local network agents, usually tested against real traffic or a live homelab rather than a clean benchmark.
 
